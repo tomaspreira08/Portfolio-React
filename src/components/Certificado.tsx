@@ -2,7 +2,7 @@ function Certificado() {
     return (
       <div className="certificado">
         <h2>Certificado</h2>
-        <p>Aguarde... O certificado ainda não foi enviado.</p>
+        <img src="/certificado_cloud.png" width="400" />
       </div>
     );
   }
